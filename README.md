@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.14.
 
+## About the Project
+
+**MyResume** is a static website developed using Angular. This project serves as a personal resume, showcasing my professional profile, including:
+
+- **About Me**: A brief introduction about myself, including my background and interests.
+- **Projects**: A section where I list and describe the projects I have worked on, highlighting my contributions and technologies used.
+- **Experience**: A detailed account of my work experience, including the roles I have held and the responsibilities I undertook.
+- **Education**: Information about my educational background, including the degrees I have earned and the institutions I attended.
+
+This project is designed to give visitors a comprehensive overview of my professional journey and technical skills.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
