@@ -1,0 +1,45 @@
+.experiencepic{
+    border-radius: 6px;
+    width: 221%;
+    margin-left: 25%;
+    display: block; 
+    object-fit: cover;
+    margin-top: 10px;
+}
+/* .experience{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+/* .my-resume{
+    text-align: justify;
+    line-height: 1.6;
+  
+    margin-top: 10px;
+    width: 500px;
+    height: 262px;
+    border: 1px solid black;
+    padding: 20px;
+} */
+.experience {
+    display: flex;
+    justify-content: center; /* Centers the box horizontally */
+    align-items: center; /* Centers the box vertically */
+    /* height: 100vh;  */
+   
+    /* position: relative; */
+    margin-top: 14px;
+    background-color: black;
+}
+
+.my-resume {
+    text-align: justify;
+    line-height: 2;
+    width: 800px;
+    height: auto; /* Allow height to be based on content */
+    /* border: 1px solid black; */
+    padding: 40px; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* Optional: Add a subtle shadow */
+    background-color: black;
+    color: white;
+}

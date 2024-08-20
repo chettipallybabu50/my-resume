@@ -1,0 +1,12 @@
+.hobbies{
+    width: 800px;
+    border: 1px solid;
+    margin-top: 20px;
+    padding: 26px;
+    color: blueviolet;
+    background-color: black;
+}
+.section{
+    display: flex;
+    justify-content: center;
+}

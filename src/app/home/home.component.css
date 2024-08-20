@@ -1,0 +1,41 @@
+.profilepic{
+    border-radius: 50%;
+    width: 130%;
+    margin-left: 25%;
+    display: block; 
+    object-fit: cover;
+    margin-top: 10px;
+}
+.home{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     /* background-color: #f5f5dc */
+   
+
+}
+.about-me-content{
+    /* flex-grow: 1; */
+    /* text-align: justify;
+    line-height: 2.6;
+    margin-right: 20px;
+    margin-left: 20px; */
+    text-align: justify;
+    line-height: 3.6;
+    margin-right: 231px;
+    margin-left: 235px;
+    margin-top: 10px;
+    /* color: white; */
+}
+:host{
+    height: 100%;
+    width: 100%;
+}
+/* .container{
+    background-color: black;
+} */
+.footer{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}

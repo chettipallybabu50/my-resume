@@ -1,0 +1,39 @@
+.Education{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.section{
+  margin-top: 0px;
+}
+.section1{
+    /* border: 1px solid; */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1.3);
+    padding: 10px;
+    margin-bottom: 25px;
+    background-color: blueviolet;
+    color: white;
+}
+.section2{
+    /* border: 1px solid; */
+    padding: 10px;
+    margin-bottom: 25px;
+    background-color: blueviolet;
+    color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1.3);
+
+}
+.section3{
+    /* border: 1px solid; */
+    padding: 10px;
+    background-color: blueviolet;
+    color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1.3);
+}
+.my-style {
+    color: #3498db; /* Replace with your desired color for "My" */
+}
+
+.education-style {
+    color: #e74c3c; /* Replace with your desired color for "Education" */
+}

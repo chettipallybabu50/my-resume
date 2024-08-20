@@ -1,0 +1,21 @@
+.skillimage {
+    width: 105px;
+    height: 100px; 
+    border: 1px solid;
+    margin-right: 10px;
+}
+.skill-section{
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid; */
+    padding: 57px;
+    color: aquamarine;
+    background-color: blueviolet;
+    width: 741px;
+    height: 107px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1.3);
+
+}
+.skill-modification{
+    display: flex;
+}
